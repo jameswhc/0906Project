@@ -1,5 +1,5 @@
-Config.ini 應有下面項目
-=========================
+## Config.ini 應有下面項目
+```
     [LINE]
     Token = <你的LINE token>
 
@@ -34,3 +34,4 @@ Config.ini 應有下面項目
 
     [EXCLUDE SITE]
     1 = aids-stop.com
+```
